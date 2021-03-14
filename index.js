@@ -29,7 +29,7 @@ function msj(id) {
         id.style.backgroundColor = '#ffcdd2';
         alertShow();
         setTimeout(() => {
-            id.style.backgroundColor = '#ffffff';
+            id.style.backgroundColor = 'blue';
         }, 3000)
     }
 }
